@@ -15,16 +15,12 @@
 
 
 <details>
-<summary>[ 👨‍👩‍👦‍👦 11th Developer Member (22.03.19 ~ 22.07.02) ] </summary>
-<div markdown="1">      
+<summary><b>[ 👨‍👩‍👦‍👦 11th Developer Member (22.03.19 ~ 22.07.02) ]</b> </summary>
+<div markdown="1">
 
-
-
----
-
-| <img src="https://avatars.githubusercontent.com/u/101611464?v=4" width="50%" hight="50%" alt="devsungmin"> | <img class="profile"  src="https://avatars.githubusercontent.com/u/60775453?v=4" width="50%" hight="50%" alt="hy57in"/> | <img class="profile" src="https://avatars.githubusercontent.com/u/19240202?v=4" width="50%" hight="50%" alt="jonghopark95"/> | <img class="profile" src="https://avatars.githubusercontent.com/u/59786670?v=4" width="50%" hight="50%" alt="SDB016"/> |
-|:----------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------:|
-|                                    [김성민](https://github.com/devsungmin)                                    |                                            [김효진](https://github.com/hy57in)                                             |                                            [박종호](https://github.com/jonghopark95)                                            |                                            [신동빈](https://github.com/SDB016)                                            | 
+| ![devsungmin](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/101611464?v=4&h=250&w=250&fit=cover&mask=circle&maxage=7d) | ![hy57in](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/60775453?v=4"?v=4&h=250&w=250&fit=cover&mask=circle&maxage=7d) | ![jonghopark95](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/19240202?v=4"?v=4&h=250&w=250&fit=cover&mask=circle&maxage=7d) | ![SDB016](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/59786670?v=4"?v=4&h=250&w=250&fit=cover&mask=circle&maxage=7d) |
+|:----------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------:|
+|                                                      [김성민](https://github.com/devsungmin)                                                      |                                                        [김효진](https://github.com/hy57in)                                                        |                                                        [박종호](https://github.com/jonghopark95)                                                        |                                                        [신동빈](https://github.com/SDB016)                                                        | 
 
 ### 11기 추가 예정
 
