@@ -4,9 +4,12 @@
 
 <div align=center>
 
+[![Depromeet](https://img.shields.io/badge/depromeet-deprommet-blue)](https://depromeet.com)
+
 [![Facebook](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/deprommeet/)](https://www.facebook.com/depromeet)
 [![instagram](https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/deprommeet/)](https://www.instagram.com/depromeet)
 [![Mail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:depromeet@gmail.com)](mailto:depromeet@gmail.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/depromeet)](https://hits.seeyoufarm.com)
 
 </div>
 
