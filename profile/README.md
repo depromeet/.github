@@ -10,7 +10,12 @@
 
 </div>
 
-### [ 👨‍👩‍👦‍👦 11th Developer Member]
+
+<details>
+<summary>[ 👨‍👩‍👦‍👦 11th Developer Member (22.03.19 ~ 22.07.02) ] </summary>
+<div markdown="1">      
+
+
 
 ---
 
@@ -19,3 +24,6 @@
 |                                    [김성민](https://github.com/devsungmin)                                    |                                            [김효진](https://github.com/hy57in)                                             |                                            [박종호](https://github.com/jonghopark95)                                            |                                            [신동빈](https://github.com/SDB016)                                            | 
 
 ### 11기 추가 예정
+
+</div>
+</details>
