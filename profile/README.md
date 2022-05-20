@@ -11,7 +11,7 @@
 | <center>[김성민](https://github.com/devsungmin)</center>                                              | <center>[김효진](https://github.com/hy57in)</center>                                                                          | <center>[박종호](https://github.com/jonghopark95)</center>                                              | <center>[신동빈](https://github.com/SDB016)</center>                                      | 
 
 <style type='text/css'>
-.profile {
+[class*="profile"]  {
 width: 100%;
 hight: 100;
 border: 3px;
