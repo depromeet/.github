@@ -2,6 +2,14 @@
 
 # 디프만 - 디자이너와 프로그래머가 만났을 때
 
+<div align=center>
+
+[![Facebook](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/deprommeet/)](https://www.facebook.com/depromeet)
+[![instagram](https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/deprommeet/)](https://www.instagram.com/depromeet)
+[![Mail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:depromeet@gmail.com)](mailto:depromeet@gmail.com)
+
+</div>
+
 ### [ 👨‍👩‍👦‍👦 11th Developer Member]
 
 ---
