@@ -19,8 +19,8 @@
 <div markdown="1">
 
 <details>
-<summary>🧑🏻‍💻 Organizationer(Developer) 👩🏻‍💻 </summary>
-<div class="organizationer">
+<summary>🧑🏻‍💻 Organizer (Developer) 👩🏻‍💻 </summary>
+<div class="organizer">
 
 | ![devsungmin](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/101611464?v=4&h=250&w=250&fit=cover&mask=circle&maxage=7d) | ![hy57in](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/60775453?v=4"?v=4&h=250&w=250&fit=cover&mask=circle&maxage=7d) | ![jonghopark95](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/19240202?v=4"?v=4&h=250&w=250&fit=cover&mask=circle&maxage=7d) | ![SDB016](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/59786670?v=4"?v=4&h=250&w=250&fit=cover&mask=circle&maxage=7d) |
 |:----------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------:|
