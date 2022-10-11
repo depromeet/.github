@@ -104,13 +104,11 @@
   <summary>🧑🏻‍💻 Organizer (Developer) 👩🏻‍💻 </summary>
   <div class="organizer">
 
-| ![DongGeon0908](https://avatars.githubusercontent.com/u/50691225?v=4) | ![minsoozz](https://avatars.githubusercontent.com/u/52095945?v=4) | ![hyesungoh](https://avatars.githubusercontent.com/u/26461307?v=4) | ![yunyoung1819](https://avatars.githubusercontent.com/u/17813930?v=4) |
-| :-------------------------------------------------------------------: | :---------------------------------------------------------------: | :----------------------------------------------------------------: | :-------------------------------------------------------------------: |
-|               [김동건](https://github.com/DongGeon0908)               |               [김민수](https://github.com/minsoozz)               |               [오혜성](https://github.com/hyesungoh)               |                [윤영](https://github.com/yunyoung1819)                |
-
-| ![SeongYongLee](https://avatars.githubusercontent.com/u/43922311?v=4) | ![sensecodevalue](https://avatars.githubusercontent.com/u/59507527?v=4) |     |     |
-| :-------------------------------------------------------------------: | :---------------------------------------------------------------------: | :-: | :-: |
-|               [이성용](https://github.com/SeongYongLee)               |               [정대윤](https://github.com/sensecodevalue)               |     |     |
+| ![DongGeon0908](https://avatars.githubusercontent.com/u/50691225?v=4) |    ![minsoozz](https://avatars.githubusercontent.com/u/52095945?v=4)    | ![hyesungoh](https://avatars.githubusercontent.com/u/26461307?v=4) | ![yunyoung1819](https://avatars.githubusercontent.com/u/17813930?v=4) |
+| :-------------------------------------------------------------------: | :---------------------------------------------------------------------: | :----------------------------------------------------------------: | :-------------------------------------------------------------------: |
+|               [김동건](https://github.com/DongGeon0908)               |                  [김민수](https://github.com/minsoozz)                  |               [오혜성](https://github.com/hyesungoh)               |                [윤영](https://github.com/yunyoung1819)                |
+| ![SeongYongLee](https://avatars.githubusercontent.com/u/43922311?v=4) | ![sensecodevalue](https://avatars.githubusercontent.com/u/59507527?v=4) |                                                                    |                                                                       |
+|               [이성용](https://github.com/SeongYongLee)               |               [정대윤](https://github.com/sensecodevalue)               |                                                                    |                                                                       |
 
   </div>
   </details>
@@ -133,10 +131,8 @@
 | ![juhwankim-dev](https://avatars.githubusercontent.com/u/76620764?v=4) | ![sdu07024](https://avatars.githubusercontent.com/u/68214704?v=4) | ![leeyjwinter](https://avatars.githubusercontent.com/u/86416273?v=4) | ![junhaesung](https://avatars.githubusercontent.com/u/4813025?v=4) |
 | :---: | :---: | :---: | :---: |
 | [김주환](https://github.com/juhwankim-dev)  | [김혜인](https://github.com/sdu07024)  | [이영준](https://github.com/leeyjwinter)  | [전해성](https://github.com/junhaesung)  |
-
-| ![junjange](https://avatars.githubusercontent.com/u/69571848?v=4) | ![hyunjung-choi](https://avatars.githubusercontent.com/u/69616347?v=4) | ![Gyuil-Hwnag](https://avatars.githubusercontent.com/u/84956038?v=4) | ![]() |
-| :---------------------------------------------------------------: | :--------------------------------------------------------------------: | :------------------------------------------------------------------: | :---: |
-|               [조준장](https://github.com/junjange)               |               [최현정](https://github.com/hyunjung-choi)               |               [황규일](https://github.com/Gyuil-Hwnag)               | []()  |
+| ![junjange](https://avatars.githubusercontent.com/u/69571848?v=4) | ![hyunjung-choi](https://avatars.githubusercontent.com/u/69616347?v=4) | ![Gyuil-Hwnag](https://avatars.githubusercontent.com/u/84956038?v=4) |  |
+|               [조준장](https://github.com/junjange)               |               [최현정](https://github.com/hyunjung-choi)               |               [황규일](https://github.com/Gyuil-Hwnag)               |   |
 
   </div>
   </details>
@@ -146,7 +142,7 @@
   <div class="web-frontend-developer">
 
 | ![lineGu]() | ![]() | ![]() | ![]() |
-| :---: | :---: | :---: | :---: |
+| :---------: | :---: | :---: | :---: |
 | [강현구]()  | []()  | []()  | []()  |
 
   </div>
