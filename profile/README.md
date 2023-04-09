@@ -217,9 +217,9 @@
   <summary>🤖 Android Developer 🤖</summary>
   <div class="android-developer">
 
-| <img src="https://avatars.githubusercontent.com/u/72238126?v=4" width="25%" alt="yjyoon-dev"/> | <img src="https://avatars.githubusercontent.com/u/69571848?v=4?v=4&h=250&w=250&fit=cover&maxage=7d" width="25%" alt="junjange"/> | <img src="https://avatars.githubusercontent.com/u/65186857?v=4" width="25%" alt="ieeh1016"/> |     |
-| :--------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------: | :-: |
-|                            [윤여준](https://github.com/yjyoon-dev)                             |                                              [조준장](https://github.com/junjange)                                               |                            [현영우](https://github.com/ieeh1016)                             |     |
+| ![yjyoon-dev](https://avatars.githubusercontent.com/u/72238126?v=4) | ![junjange](https://avatars.githubusercontent.com/u/69571848?v=4?v=4&h=250&w=250&fit=cover&maxage=7d) | ![ieeh1016](https://avatars.githubusercontent.com/u/65186857?v=4) |
+| :-----------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------: |
+|               [윤여준](https://github.com/yjyoon-dev)               |                                 [조준장](https://github.com/junjange)                                 |               [현영우](https://github.com/ieeh1016)               |
 
   </div>
   </details>
