@@ -178,3 +178,90 @@
   </details>
   </div>
 </details>
+
+<!-- 13기 -->
+
+<details>
+  <summary><b>[ 👨‍👩‍👦‍👦 13th Developer Member (23.04.08 ~ 23.07.22) ]</b> </summary>
+  <div markdown="1">
+
+  <details>
+  <summary>🧑🏻‍💻 Organizer (Developer) 👩🏻‍💻 </summary>
+  <div class="organizer">
+
+| ![Dongkyuuuu](https://avatars.githubusercontent.com/u/16554536?v=4) | ![kneeee188](https://avatars.githubusercontent.com/u/97342888?v=4) | ![ding-co](https://avatars.githubusercontent.com/u/80014673?v=4) |   ![hyesungoh](https://avatars.githubusercontent.com/u/26461307?v=4)    |
+| :-----------------------------------------------------------------: | :----------------------------------------------------------------: | :--------------------------------------------------------------: | :---------------------------------------------------------------------: |
+|               [김동규](https://github.com/Dongkyuuuu)               |               [김문규](https://github.com/kneeee188)               |               [김민수](https://github.com/ding-co)               |                 [오혜성](https://github.com/hyesungoh)                  |
+|  ![stae1102](https://avatars.githubusercontent.com/u/83271772?v=4)  | ![eunddodi](https://avatars.githubusercontent.com/u/87167786?v=4)  |  ![ImNM](https://avatars.githubusercontent.com/u/13329304?v=4)   | ![sensecodevalue](https://avatars.githubusercontent.com/u/59507527?v=4) |
+|                [이성태](https://github.com/stae1102)                |               [이은지](https://github.com/eunddodi)                |                [이찬진](https://github.com/ImNM)                 |               [정대윤](https://github.com/sensecodevalue)               |
+| ![joseph704](https://avatars.githubusercontent.com/u/35060252?v=4)  |
+|               [차요셉](https://github.com/joseph704)                |
+
+  </div>
+  </details>
+
+  <details>
+  <summary>🍎 iOS Developer 🍎</summary>
+  <div class="ios-developer">
+
+| ![derrickkim0109](https://avatars.githubusercontent.com/u/59466342?v=4) | ![sunny-maeng](https://avatars.githubusercontent.com/u/107384230?v=4) | ![joongkyu-park](https://avatars.githubusercontent.com/u/60916423?v=4) | ![parkhj0423](https://avatars.githubusercontent.com/u/50567986?v=4) |
+| :---------------------------------------------------------------------: | :-------------------------------------------------------------------: | :--------------------------------------------------------------------: | :-----------------------------------------------------------------: |
+|               [김태현](https://github.com/derrickkim0109)               |               [맹선아](https://github.com/sunny-maeng)                |               [박중규](https://github.com/joongkyu-park)               |               [박현우](https://github.com/parkhj0423)               |
+|  ![mooyoung2309](https://avatars.githubusercontent.com/u/77970826?v=4)  |
+|                [송영모](https://github.com/mooyoung2309)                |
+
+  </div>
+  </details>
+
+  <details>
+  <summary>🤖 Android Developer 🤖</summary>
+  <div class="android-developer">
+
+| ![yjyoon-dev](https://avatars.githubusercontent.com/u/72238126?v=4) | ![junjange](https://avatars.githubusercontent.com/u/69571848?v=4?v=4&h=250&w=250&fit=cover&maxage=7d) | ![ieeh1016](https://avatars.githubusercontent.com/u/65186857?v=4) |
+| :-----------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------: |
+|               [윤여준](https://github.com/yjyoon-dev)               |                                 [조준장](https://github.com/junjange)                                 |               [현영우](https://github.com/ieeh1016)               |
+
+  </div>
+  </details>
+
+<details>
+  <summary>🖥 Web Frontend Developer 🖥</summary>
+  <div class="web-frontend-developer">
+
+|  ![99-zziy](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/62633444?v=4?v=4&h=250&w=250&fit=cover&maxage=7d)   |  ![oyeon-kwon](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/61301574?v=4?v=4&h=250&w=250&fit=cover&maxage=7d)  |  ![svk5496](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/54943533?v=4?v=4&h=250&w=250&fit=cover&maxage=7d)  | ![kimyouknow](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/71386219?v=4?v=4&h=250&w=250&fit=cover&maxage=7d) |
+| :-----------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------: |
+|                                                 [강지영](https://github.com/99-zziy)                                                  |                                                 [권오연](https://github.com/oyeon-kwon)                                                 |                                                 [김성호](https://github.com/svk5496)                                                 |                                                [김윤호](https://github.com/kimyouknow)                                                |
+| ![Na-hyunwoo](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/22545843?v=4?v=4&h=250&w=250&fit=cover&maxage=7d) | ![hyehyeonmoon](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/55529617?v=4?v=4&h=250&w=250&fit=cover&maxage=7d) | ![sangbooom](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/43921054?v=4?v=4&h=250&w=250&fit=cover&maxage=7d) | ![harseille](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/85827017?v=4?v=4&h=250&w=250&fit=cover&maxage=7d)  |
+|                                                [나현우](https://github.com/Na-hyunwoo)                                                |                                                [문혜현](https://github.com/hyehyeonmoon)                                                |                                                [박상범](https://github.com/sangbooom)                                                |                                                [박준하](https://github.com/harseille)                                                 |
+| ![sumi-0011](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/49177223?v=4?v=4&h=250&w=250&fit=cover&maxage=7d)  |  ![minkyung00](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/80238096?v=4?v=4&h=250&w=250&fit=cover&maxage=7d)  | ![Jay-WKJun](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/40374023?v=4?v=4&h=250&w=250&fit=cover&maxage=7d) |   ![WooWan](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/47740690?v=4?v=4&h=250&w=250&fit=cover&maxage=7d)   |
+|                                                [변수미](https://github.com/sumi-0011)                                                 |                                                 [신민경](https://github.com/minkyung00)                                                 |                                                [우경준](https://github.com/Jay-WKJun)                                                |                                                  [우창완](https://github.com/WooWan)                                                  |
+|  ![highjoon](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/63948484?v=4?v=4&h=250&w=250&fit=cover&maxage=7d)  |   ![darae07](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/61297852?v=4?v=4&h=250&w=250&fit=cover&maxage=7d)    |  ![sjoleee](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/82137004?v=4?v=4&h=250&w=250&fit=cover&maxage=7d)  |  ![SINHOLEE](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/52685524?v=4?v=4&h=250&w=250&fit=cover&maxage=7d)  |
+|                                                 [윤상준](https://github.com/highjoon)                                                 |                                                  [이다래](https://github.com/darae07)                                                   |                                                 [이상조](https://github.com/sjoleee)                                                 |                                                 [이신호](https://github.com/SINHOLEE)                                                 |
+|   ![seonjl](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/79953344?v=4?v=4&h=250&w=250&fit=cover&maxage=7d)   |    ![iyu88](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/31645195?v=4?v=4&h=250&w=250&fit=cover&maxage=7d)     |                                                                                                                                      |                                                                                                                                       |
+|                                                  [이진선](https://github.com/seonjl)                                                  |                                                   [이현빈](https://github.com/iyu88)                                                    |                                                                                                                                      |                                                                                                                                       |
+
+  </div>
+  </details>
+
+  <details>
+  <summary>⌨️ Backend Developer ⌨️</summary>
+  <div class="Backend-developer">
+
+| ![likelasttime](https://avatars.githubusercontent.com/u/46569105?v=4) |   ![semi-cloud](https://avatars.githubusercontent.com/u/71436576?v=4)   |   ![Gyuchool](https://avatars.githubusercontent.com/u/60054318?v=4)   | ![PracticeEveryday](https://avatars.githubusercontent.com/u/97580759?v=4) |
+| :-------------------------------------------------------------------: | :---------------------------------------------------------------------: | :-------------------------------------------------------------------: | :-----------------------------------------------------------------------: |
+|               [강민정](https://github.com/likelasttime)               |                 [강세미](https://github.com/semi-cloud)                 |                 [김규철](https://github.com/Gyuchool)                 |               [김동현](https://github.com/PracticeEveryday)               |
+|    ![kdomo](https://avatars.githubusercontent.com/u/64088250?v=4)     |   ![sanbonai06](https://avatars.githubusercontent.com/u/59060780?v=4)   |  ![kimchowon](https://avatars.githubusercontent.com/u/52793122?v=4)   |      ![gunh0](https://avatars.githubusercontent.com/u/41619898?v=4)       |
+|                  [김동호](https://github.com/kdomo)                   |                 [김민준](https://github.com/sanbonai06)                 |                [김초원](https://github.com/kimchowon)                 |                    [박건호](https://github.com/gunh0)                     |
+| ![ParkJungYoon](https://avatars.githubusercontent.com/u/97580782?v=4) |   ![parkje0927](https://avatars.githubusercontent.com/u/59729616?v=4)   |  ![siyeonSon](https://avatars.githubusercontent.com/u/87802191?v=4)   |  ![Sim-mi-gyeong](https://avatars.githubusercontent.com/u/80315847?v=4)   |
+|               [박정윤](https://github.com/ParkJungYoon)               |                 [박정현](https://github.com/parkje0927)                 |                [손시연](https://github.com/siyeonSon)                 |                [심미경](https://github.com/Sim-mi-gyeong)                 |
+|   ![dkswnkk](https://avatars.githubusercontent.com/u/74492426?v=4)    |    ![dojinyou](https://avatars.githubusercontent.com/u/61923768?v=4)    | ![yunyoung1819](https://avatars.githubusercontent.com/u/17813930?v=4) |   ![BlackBean99](https://avatars.githubusercontent.com/u/54030889?v=4)    |
+|                 [안주형](https://github.com/dkswnkk)                  |                  [유도진](https://github.com/dojinyou)                  |                [윤영](https://github.com/yunyoung1819)                |                 [이서현](https://github.com/BlackBean99)                  |
+| ![ssssujini99](https://avatars.githubusercontent.com/u/71487608?v=4)  | ![soochangoforit](https://avatars.githubusercontent.com/u/91618389?v=4) |  ![LeeJejune](https://avatars.githubusercontent.com/u/81547780?v=4)   |      ![devxb](https://avatars.githubusercontent.com/u/62425964?v=4)       |
+|               [이수진](https://github.com/ssssujini99)                |               [이수찬](https://github.com/soochangoforit)               |                [이제준](https://github.com/LeeJejune)                 |                    [이준영](https://github.com/devxb)                     |
+|    ![jjddhh](https://avatars.githubusercontent.com/u/92728780?v=4)    |   ![JangDaljin](https://avatars.githubusercontent.com/u/45301224?v=4)   | ![seonghun-dev](https://avatars.githubusercontent.com/u/80201773?v=4) |
+|                  [장동호](https://github.com/jjddhh)                  |                 [장원진](https://github.com/JangDaljin)                 |               [정성훈](https://github.com/seonghun-dev)               |
+
+  </div>
+  </details>
+  </div>
+</details>
