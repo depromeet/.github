@@ -178,3 +178,50 @@
   </details>
   </div>
 </details>
+
+<details>
+  <summary><b>[ 👨‍👩‍👦‍👦 13th Developer Member (23.04.08 ~ ) ]</b> </summary>
+  <div markdown="1">
+
+  <details>
+  <summary>🧑🏻‍💻 Organizer (Developer) 👩🏻‍💻 </summary>
+  <div class="organizer">
+
+| ![hyesungoh](https://avatars.githubusercontent.com/u/26461307?v=4) | ![hyesungoh](https://avatars.githubusercontent.com/u/26461307?v=4) | ![hyesungoh](https://avatars.githubusercontent.com/u/26461307?v=4) | ![hyesungoh](https://avatars.githubusercontent.com/u/26461307?v=4) |
+| :----------------------------------------------------------------: | :----------------------------------------------------------------: | :----------------------------------------------------------------: | :----------------------------------------------------------------: |
+|               [오혜성](https://github.com/hyesungoh)               |               [오혜성](https://github.com/hyesungoh)               |               [오혜성](https://github.com/hyesungoh)               |               [오혜성](https://github.com/hyesungoh)               |
+| ![hyesungoh](https://avatars.githubusercontent.com/u/26461307?v=4) | ![hyesungoh](https://avatars.githubusercontent.com/u/26461307?v=4) |                                                                    |                                                                    |
+|               [오혜성](https://github.com/hyesungoh)               |               [오혜성](https://github.com/hyesungoh)               |                                                                    |                                                                    |
+
+  </div>
+  </details>
+
+  <details>
+  <summary>🍎 iOS Developer 🍎</summary>
+  <div class="ios-developer">
+
+  </div>
+  </details>
+
+  <details>
+  <summary>🤖 Android Developer 🤖</summary>
+  <div class="android-developer">
+
+  </div>
+  </details>
+
+  <details>
+  <summary>🖥 Web Frontend Developer 🖥</summary>
+  <div class="web-frontend-developer">
+
+  </div>
+  </details>
+
+  <details>
+  <summary>⌨️ Backend Developer ⌨️</summary>
+  <div class="Backend-developer">
+
+  </div>
+  </details>
+  </div>
+</details>
