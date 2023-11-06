@@ -279,7 +279,8 @@
 | ![강지영](https://avatars.githubusercontent.com/u/62633444?v=4) | ![김윤호](https://avatars.githubusercontent.com/u/71386219?v=4) | ![변수미](https://avatars.githubusercontent.com/u/49177223?v=4) | ![이서현](https://avatars.githubusercontent.com/u/54030889?v=4) |
 | :-------------------------------------------------------------: | :-------------------------------------------------------------: | :-------------------------------------------------------------: | :-------------------------------------------------------------: |
 |              [강지영](https://github.com/99-zziy)               |             [김윤호](https://github.com/kimyouknow)             |             [변수미](https://github.com/sumi-0011)              |            [이서현](https://github.com/BlackBean99)             |
-
+| ![이제준](https://avatars.githubusercontent.com/u/81547780?v=4) |
+| [이제준](https://github.com/LeeJejune) | 
   </div>
   </details>
 
