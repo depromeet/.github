@@ -334,8 +334,8 @@
 | ![강성민](https://avatars.githubusercontent.com/u/91249216?v=4)    | ![권순찬](https://avatars.githubusercontent.com/u/49567744?v=4)    |   ![권우석](https://avatars.githubusercontent.com/u/62459196?v=4)  | ![김동호](https://avatars.githubusercontent.com/u/64088250?v=4)|
 | :-: | :-: | :-: |:-: |
 |[강성민](https://github.com/ddingmin)     |  [권순찬](https://github.com/Kwon770)   | [권우석](https://github.com/egg528)    |   [김동호](https://github.com/kdomo) |
-| ![김정인](https://avatars.githubusercontent.com/u/47661695?v=4)|![김훈섭](https://avatars.githubusercontent.com/u/70641477?v=4) | ![박시창](https://avatars.githubusercontent.com/u/89639413?v=4)| ![송영민](https://avatars.githubusercontent.com/u/67673493?v=4) |
-|[김정인](https://github.com/mywnajsldkf)| [김훈섭](https://github.com/khsrla9806)|[박시창](https://github.com/jivebreaddev) | [송영민](https://github.com/cchuyong)|
+| ![김정인](https://avatars.githubusercontent.com/u/47661695?v=4)|![김훈섭](https://avatars.githubusercontent.com/u/70641477?v=4) | ![최필환](https://avatars.githubusercontent.com/u/112103038?v=4)| ![송영민](https://avatars.githubusercontent.com/u/67673493?v=4) |
+|[김정인](https://github.com/mywnajsldkf)| [김훈섭](https://github.com/khsrla9806)|[최필환](https://github.com/thisishwan2) | [송영민](https://github.com/cchuyong)|
 | ![안재현](https://avatars.githubusercontent.com/u/91878695?v=4)| ![유희수](https://avatars.githubusercontent.com/u/76957700?v=4) | ![윤영](https://avatars.githubusercontent.com/u/17813930?v=4)| ![이준영](https://avatars.githubusercontent.com/u/62425964?v=4) |
 |[안재현](https://github.com/uwoobeat) | [유희수](https://github.com/Ryuhyis) |[윤영](https://github.com/yunyoung1819) |[이준영](https://github.com/devxb) |
 | ![이진호](https://avatars.githubusercontent.com/u/71186266?v=4)|![임지수](https://avatars.githubusercontent.com/u/69844138?v=4) | ![차윤범](https://avatars.githubusercontent.com/u/68099546?v=4)| ![최동근](https://avatars.githubusercontent.com/u/96874318?v=4) |
