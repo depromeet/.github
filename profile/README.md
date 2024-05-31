@@ -58,15 +58,15 @@
   <summary>🖥 Web Frontend Developer 🖥</summary>
   <div class="web-frontend-developer">
 
-| ![김도은](https://avatars.githubusercontent.com/u/112946860?v=4) | ![김현우](https://avatars.githubusercontent.com/u/19422885?v=4) | ![류홍석](https://avatars.githubusercontent.com/u/34956359?v=4)  | ![손준호](https://avatars.githubusercontent.com/u/67476544?v=4) |
-| :--------------------------------------------------------------: | :-------------------------------------------------------------: | :--------------------------------------------------------------: | :-------------------------------------------------------------: | -------------------------------------------------------------- |
-|             [김도은](https://github.com/Doeunnkimm)              |            [김현우](https://github.com/klmhyeonwoo)             |               [류홍석](https://github.com/deepbig)               |              [손준호](https://github.com/JUNOSHON)              |
-| ![신민경](https://avatars.githubusercontent.com/u/80238096?v=4)  | ![안동민](https://avatars.githubusercontent.com/u/68339352?v=4) | ![오예린](https://avatars.githubusercontent.com/u/110076475?v=4) | ![유은지](https://avatars.githubusercontent.com/u/27201591?v=4) |
-|             [신민경](https://github.com/minkyung00)              |              [안동민](https://github.com/wade3420)              |              [오예린](https://github.com/YelynnOh)               |              [유은지](https://github.com/y00eunji)              |
-| ![유준상](https://avatars.githubusercontent.com/u/89122773?v=4)  | ![이상조](https://avatars.githubusercontent.com/u/82137004?v=4) | ![이채민](https://avatars.githubusercontent.com/u/66225688?v=4)  | ![이현재](https://avatars.githubusercontent.com/u/71202076?v=4) | [정우병](https://avatars.githubusercontent.com/u/50283326?v=4) |
-|              [유준상](https://github.com/YOOJS1205)              |              [이상조](https://github.com/sjoleee)               |              [이채민](https://github.com/Chaemin-L)              |               [이현재](https://github.com/2-NOW)                | [정우병](https://github.com/wooBottle)                         |
-| ![정지영](https://avatars.githubusercontent.com/u/72294509?v=4)  | ![허준영](https://avatars.githubusercontent.com/u/45158550?v=4) |
-|             [정지영](https://github.com/Jungjjeong)              |              [허준영](https://github.com/hjy0951)               |
+| ![권은빈](https://avatars.githubusercontent.com/u/65286685?v=4) | ![김도은](https://avatars.githubusercontent.com/u/112946860?v=4) | ![김성민](https://avatars.githubusercontent.com/u/86355699?v=4) | ![김현민](https://avatars.githubusercontent.com/u/90752841?v=4) |
+| :-------------------------------------------------------------: | :--------------------------------------------------------------: | :-------------------------------------------------------------: | :-------------------------------------------------------------: |
+|              [권은빈](https://github.com/eunbeann)              |             [김도은](https://github.com/Doeunnkimm)              |            [김성민](https://github.com/Collection50)            |              [김현민](https://github.com/wokbjso)               |
+| ![김현우](https://avatars.githubusercontent.com/u/19422885?v=4) | ![박은식](https://avatars.githubusercontent.com/u/26402298?v=4)  | ![우정균](https://avatars.githubusercontent.com/u/73513965?v=4) | ![이동훈](https://avatars.githubusercontent.com/u/37871553?v=4) |
+|            [김현우](https://github.com/klmhyeonwoo)             |             [박은식](https://github.com/qkrdmstlr3)              |               [우정균](https://github.com/woo-jk)               |             [이동훈](https://github.com/donghunee)              |
+| ![이민희](https://avatars.githubusercontent.com/u/91667853?v=4) | ![이세민](https://avatars.githubusercontent.com/u/89172499?v=4)  | ![이정호](https://avatars.githubusercontent.com/u/92032081?v=4) | ![장종오](https://avatars.githubusercontent.com/u/65812122?v=4) |
+|            [이민희](https://github.com/leeminhee119)            |             [이세민](https://github.com/semnil5202)              |            [이정호](https://github.com/LeeJeongHooo)            |             [장종오](https://github.com/Andrevile)              |
+| ![정지영](https://avatars.githubusercontent.com/u/72294509?v=4) | ![주시현](https://avatars.githubusercontent.com/u/100525337?v=4) | ![황윤](https://avatars.githubusercontent.com/u/124887974?v=4)  |
+|             [정지영](https://github.com/Jungjjeong)             |              [주시현](https://github.com/sean2337)               |              [황윤](https://github.com/summermong)              |
 
   </div>
   </details>
@@ -75,17 +75,17 @@
   <summary>⌨️ Server Developer ⌨️</summary>
   <div class="Server-developer">
 
-| ![권기준](https://avatars.githubusercontent.com/u/39583312?v=4)  | ![김나현](https://avatars.githubusercontent.com/u/69833665?v=4)  |  ![김세정](https://avatars.githubusercontent.com/u/64718002?v=4)   | ![노관옥](https://avatars.githubusercontent.com/u/61671343?v=4)   |
-|  :------------------------------------------------------------:  |  :------------------------------------------------------------:  |  :--------------------------------------------------------------:  |  :-------------------------------------------------------------:  |
-|              [권기준](https://github.com/kkjsw17)                |             [김나현](https://github.com/nahyeon99)               |               [김세정](https://github.com/clean2001)               |               [노관옥](https://github.com/kwanok)                 |
-| ![박민성](https://avatars.githubusercontent.com/u/52368015?v=4)  | ![박세준](https://avatars.githubusercontent.com/u/74056843?v=4)  |  ![박윤찬](https://avatars.githubusercontent.com/u/75676309?v=4)   | ![송민규](https://avatars.githubusercontent.com/u/100754581?v=4)  |
-|              [박민성](https://github.com/pminsung12)             |             [박세준](https://github.com/sejoon00)                |               [박윤찬](https://github.com/dbscks97)                |               [송민규](https://github.com/mikekks)                |
-| ![신민철](https://avatars.githubusercontent.com/u/48898994?v=4)  | ![신은지](https://avatars.githubusercontent.com/u/38103085?v=4)  |  ![양원채](https://avatars.githubusercontent.com/u/79977182?v=4)   | ![엽용현](https://avatars.githubusercontent.com/u/73725736?v=4)   |
-|              [신민철](https://github.com/its-sky)                |             [신은지](https://github.com/EunjiShin)               |               [양원채](https://github.com/ywonchae1)               |               [엽용현](https://github.com/raymondanythings)       |
-| ![이준영](https://avatars.githubusercontent.com/u/84059402?v=4)  |![이한음](https://avatars.githubusercontent.com/u/103233513?v=4)  |  ![정상벽](https://avatars.githubusercontent.com/u/64072741?v=4)   | ![정준원](https://avatars.githubusercontent.com/u/67488973?v=4)   |
-|              [이준영](https://github.com/lee-june-young)         |             [이한음](https://github.com/LeeHanEum)               |               [정상벽](https://github.com/JeongSangByuk)           |               [정준원](https://github.com/wjdwnsdnjs13)           |
-| ![차윤범](https://avatars.githubusercontent.com/u/68099546?v=4)  | ![홍성주](https://avatars.githubusercontent.com/u/96187152?v=4)  |
-|              [차윤범](https://github.com/uiurihappy)             |             [홍성주](https://github.com/penrose15)               |
+| ![권기준](https://avatars.githubusercontent.com/u/39583312?v=4) | ![김나현](https://avatars.githubusercontent.com/u/69833665?v=4)  | ![김세정](https://avatars.githubusercontent.com/u/64718002?v=4) | ![노관옥](https://avatars.githubusercontent.com/u/61671343?v=4)  |
+| :-------------------------------------------------------------: | :--------------------------------------------------------------: | :-------------------------------------------------------------: | :--------------------------------------------------------------: |
+|              [권기준](https://github.com/kkjsw17)               |              [김나현](https://github.com/nahyeon99)              |             [김세정](https://github.com/clean2001)              |               [노관옥](https://github.com/kwanok)                |
+| ![박민성](https://avatars.githubusercontent.com/u/52368015?v=4) | ![박세준](https://avatars.githubusercontent.com/u/74056843?v=4)  | ![박윤찬](https://avatars.githubusercontent.com/u/75676309?v=4) | ![송민규](https://avatars.githubusercontent.com/u/100754581?v=4) |
+|             [박민성](https://github.com/pminsung12)             |              [박세준](https://github.com/sejoon00)               |              [박윤찬](https://github.com/dbscks97)              |               [송민규](https://github.com/mikekks)               |
+| ![신민철](https://avatars.githubusercontent.com/u/48898994?v=4) | ![신은지](https://avatars.githubusercontent.com/u/38103085?v=4)  | ![양원채](https://avatars.githubusercontent.com/u/79977182?v=4) | ![엽용현](https://avatars.githubusercontent.com/u/73725736?v=4)  |
+|              [신민철](https://github.com/its-sky)               |              [신은지](https://github.com/EunjiShin)              |             [양원채](https://github.com/ywonchae1)              |          [엽용현](https://github.com/raymondanythings)           |
+| ![이준영](https://avatars.githubusercontent.com/u/84059402?v=4) | ![이한음](https://avatars.githubusercontent.com/u/103233513?v=4) | ![정상벽](https://avatars.githubusercontent.com/u/64072741?v=4) | ![정준원](https://avatars.githubusercontent.com/u/67488973?v=4)  |
+|           [이준영](https://github.com/lee-june-young)           |              [이한음](https://github.com/LeeHanEum)              |           [정상벽](https://github.com/JeongSangByuk)            |            [정준원](https://github.com/wjdwnsdnjs13)             |
+| ![차윤범](https://avatars.githubusercontent.com/u/68099546?v=4) | ![홍성주](https://avatars.githubusercontent.com/u/96187152?v=4)  |
+|             [차윤범](https://github.com/uiurihappy)             |              [홍성주](https://github.com/penrose15)              |
 
   </div>
   </details>
@@ -282,8 +282,8 @@
   <div class="ios-developer">
 
 | ![keeplo](https://avatars.githubusercontent.com/u/24707229?v=4) | ![kipsong133](https://avatars.githubusercontent.com/u/65879950?v=4) | ![sustainable-git](https://avatars.githubusercontent.com/u/81242125?v=4) | ![joseph704](https://avatars.githubusercontent.com/u/35060252?v=4) |
-| :---: | :---: | :---: | :---: |
-| [김용우](https://github.com/keeplo)  | [김우성](https://github.com/kipsong133)  | [신재웅](https://github.com/sustainable-git)  | [차요셉](https://github.com/joseph704)  |
+| :-------------------------------------------------------------: | :-----------------------------------------------------------------: | :----------------------------------------------------------------------: | :----------------------------------------------------------------: |
+|               [김용우](https://github.com/keeplo)               |               [김우성](https://github.com/kipsong133)               |               [신재웅](https://github.com/sustainable-git)               |               [차요셉](https://github.com/joseph704)               |
 
   </div>
   </details>
