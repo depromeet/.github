@@ -23,11 +23,11 @@
   <summary>🧑🏻‍💻 Organizer (Developer) 👩🏻‍💻 </summary>
   <div class="organizer">
 
-| ![유준상](https://avatars.githubusercontent.com/u/89122773?v=4) | ![허준영](https://avatars.githubusercontent.com/u/45158550?v=4) | ![유건희](https://avatars.githubusercontent.com/u/96224311?v=4) | ![김동호](https://avatars.githubusercontent.com/u/64088250?v=4) |
+| ![김동호](https://avatars.githubusercontent.com/u/64088250?v=4) | ![김정인](https://avatars.githubusercontent.com/u/19480767?v=4) | ![유건희](https://avatars.githubusercontent.com/u/96224311?v=4) | ![유준상](https://avatars.githubusercontent.com/u/89122773?v=4) |
 | :-------------------------------------------------------------: | :-------------------------------------------------------------: | :-------------------------------------------------------------: | :-------------------------------------------------------------: |
-|             [유준상](https://github.com/YOOJS1205)              |              [허준영](https://github.com/hjy0951)               |             [유건희](https://github.com/YuGeonHui)              |               [김동호](https://github.com/kdomo)                |
-| ![김정인](https://avatars.githubusercontent.com/u/19480767?v=4) |
-|             [김정인](https://github.com/JeonginKim)             |
+|             [김동호](https://github.com/kdomo)              |              [김정인](https://github.com/JeonginKim)               |             [유건희](https://github.com/YuGeonHui)              |               [유준상](https://github.com/YOOJS1205)                |
+| ![허준영](https://avatars.githubusercontent.com/u/45158550?v=4) |
+|             [허준영](https://github.com/hjy0951)             |
 
   </div>
   </details>
