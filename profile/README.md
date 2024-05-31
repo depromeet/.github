@@ -379,9 +379,9 @@
   <summary>🤖 Android Developer 🤖</summary>
   <div class="android-developer">
 
-| ![김우남](https://avatars.githubusercontent.com/u/89737271?v=4) | ![신민서](https://avatars.githubusercontent.com/u/100370200?v=4) | ![이강민](https://avatars.githubusercontent.com/u/56147398?v=4) | ![김세연](https://avatars.githubusercontent.com/u/81468180?v=4) |
-| :-------------------------------------------------------------: | :--------------------------------------------------------------: | :-------------------------------------------------------------: | :-------------------------------------------------------------: |
-|               [김우남](https://github.com/unam98)               |                [신민서](https://github.com/Mnseo)                |             [이강민](https://github.com/kkk5474096)             |              [김세연](https://github.com/blueme0)               |
+| ![노균욱](https://avatars.githubusercontent.com/u/76191161?v=4) | ![박민주](https://avatars.githubusercontent.com/u/76741702?v=4) | ![윤성식](https://avatars.githubusercontent.com/u/83231344?v=4) | ![조관희](https://avatars.githubusercontent.com/u/90740783?v=4) |
+| :-------------------------------------------------------------: | :-------------------------------------------------------------: | :-------------------------------------------------------------: | :-------------------------------------------------------------: |
+|              [노균욱](https://github.com/BENDENG1)              |             [박민주](https://github.com/minju1459)              |              [윤성식](https://github.com/SsongSik)              |             [조관희](https://github.com/Jokwanhee)              |
 
   </div>
   </details>
