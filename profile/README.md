@@ -70,8 +70,8 @@
   </details>
 
   <details>
-  <summary>⌨️ Backend Developer ⌨️</summary>
-  <div class="Backend-developer">
+  <summary>⌨️ Server Developer ⌨️</summary>
+  <div class="Server-developer">
 
 | ![daeunkwak](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/77181984?v=4?v=4&h=250&w=250&fit=cover&mask=circle&maxage=7d)  | ![DongGeon0908](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/50691225?v=4?v=4&h=250&w=250&fit=cover&mask=circle&maxage=7d) | ![daseulll](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/39873335?v=4?v=4&h=250&w=250&fit=cover&mask=circle&maxage=7d)  |   ![minsoozz](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/52095945?v=4?v=4&h=250&w=250&fit=cover&mask=circle&maxage=7d)   |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -157,8 +157,8 @@
   </details>
 
   <details>
-  <summary>⌨️ Backend Developer ⌨️</summary>
-  <div class="Backend-developer">
+  <summary>⌨️ Server Developer ⌨️</summary>
+  <div class="Server-developer">
 
 |   ![Yaminyam](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/31057849?v=4?v=4&h=250&w=250&fit=cover&maxage=7d)   |  ![Kneeee188](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/97342888?v=4?v=4&h=250&w=250&fit=cover&maxage=7d)  |     ![cmg1411](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/57589937?v=4?v=4&h=250&w=250&fit=cover&maxage=7d)     |  ![SieunKiim](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/39111133?v=4?v=4&h=250&w=250&fit=cover&maxage=7d)   |
 | :-------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------: |
@@ -244,8 +244,8 @@
   </details>
 
   <details>
-  <summary>⌨️ Backend Developer ⌨️</summary>
-  <div class="Backend-developer">
+  <summary>⌨️ Server Developer ⌨️</summary>
+  <div class="Server-developer">
 
 | ![likelasttime](https://avatars.githubusercontent.com/u/46569105?v=4) |   ![semi-cloud](https://avatars.githubusercontent.com/u/71436576?v=4)   |   ![Gyuchool](https://avatars.githubusercontent.com/u/60054318?v=4)   | ![PracticeEveryday](https://avatars.githubusercontent.com/u/97580759?v=4) |
 | :-------------------------------------------------------------------: | :---------------------------------------------------------------------: | :-------------------------------------------------------------------: | :-----------------------------------------------------------------------: |
@@ -325,8 +325,8 @@
   </details>
 
   <details>
-  <summary>⌨️ Backend Developer ⌨️</summary>
-  <div class="Backend-developer">
+  <summary>⌨️ Server Developer ⌨️</summary>
+  <div class="Server-developer">
 
 | ![강성민](https://avatars.githubusercontent.com/u/91249216?v=4) | ![권순찬](https://avatars.githubusercontent.com/u/49567744?v=4) | ![권우석](https://avatars.githubusercontent.com/u/62459196?v=4)  | ![김동호](https://avatars.githubusercontent.com/u/64088250?v=4) |
 | :-------------------------------------------------------------: | :-------------------------------------------------------------: | :--------------------------------------------------------------: | :-------------------------------------------------------------: |
