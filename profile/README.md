@@ -23,9 +23,9 @@
   <summary>🧑🏻‍💻 Organizer (Developer) 👩🏻‍💻 </summary>
   <div class="organizer">
 
-| ![김동호](https://avatars.githubusercontent.com/u/64088250?v=4) | ![김정인](https://avatars.githubusercontent.com/u/19480767?v=4) | ![유건희](https://avatars.githubusercontent.com/u/96224311?v=4) | ![유준상](https://avatars.githubusercontent.com/u/89122773?v=4) |
+| ![김동호](https://avatars.githubusercontent.com/u/64088250?v=4) | ![김정인](https://avatars.githubusercontent.com/u/47661695?v=4) | ![유건희](https://avatars.githubusercontent.com/u/96224311?v=4) | ![유준상](https://avatars.githubusercontent.com/u/89122773?v=4) |
 | :-------------------------------------------------------------: | :-------------------------------------------------------------: | :-------------------------------------------------------------: | :-------------------------------------------------------------: |
-|             [김동호](https://github.com/kdomo)              |              [김정인](https://github.com/JeonginKim)               |             [유건희](https://github.com/YuGeonHui)              |               [유준상](https://github.com/YOOJS1205)                |
+|             [김동호](https://github.com/kdomo)              |              [김정인](https://github.com/mywnajsldkf)               |             [유건희](https://github.com/YuGeonHui)              |               [유준상](https://github.com/YOOJS1205)                |
 | ![허준영](https://avatars.githubusercontent.com/u/45158550?v=4) |
 |             [허준영](https://github.com/hjy0951)             |
 
@@ -85,7 +85,7 @@
 | ![이준영](https://avatars.githubusercontent.com/u/84059402?v=4) | ![이한음](https://avatars.githubusercontent.com/u/103233513?v=4) | ![정상벽](https://avatars.githubusercontent.com/u/64072741?v=4) | ![정준원](https://avatars.githubusercontent.com/u/67488973?v=4)  |
 |           [이준영](https://github.com/lee-june-young)           |              [이한음](https://github.com/LeeHanEum)              |           [정상벽](https://github.com/JeongSangByuk)            |            [정준원](https://github.com/wjdwnsdnjs13)             |
 | ![차윤범](https://avatars.githubusercontent.com/u/68099546?v=4) | ![홍성주](https://avatars.githubusercontent.com/u/96187152?v=4)  |
-|             [차윤범](https://github.com/uiurihappy)             |              [홍성주](https://github.com/penrose15)              |
+|             [차윤범](https://github.com/char-yb)             |              [홍성주](https://github.com/penrose15)              |
 
   </div>
   </details>
