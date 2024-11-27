@@ -1,5 +1,4 @@
-<img width="1698" alt="깃허브" src="https://github.com/user-attachments/assets/ac4242c4-38e6-4abf-97c3-a2b42e813ddf">
-
+![github_banner](https://github.com/depromeet/.github/blob/master/images/depromeet-16th.png)
 
 # 디프만 - 디자이너와 프로그래머가 만났을 때
 
