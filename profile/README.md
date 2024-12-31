@@ -36,9 +36,9 @@
   <summary>🍎 iOS Developer 🍎</summary>
   <div class="ios-developer">
 
-| ![김경훈](https://avatars.githubusercontent.com/u/52434820?v=4) | ![김지연](https://avatars.githubusercontent.com/u/69784492?v=4) | ![이지희](https://avatars.githubusercontent.com/u/68178395?v=4) | ![조용인](https://avatars.githubusercontent.com/u/80234027?v=4) |
-| :-------------------------------------------------------------: | :-------------------------------------------------------------: | :-------------------------------------------------------------: | :-------------------------------------------------------------: |
-|            [김경훈](https://github.com/kimkyunghun3)            |             [김지연](https://github.com/ji-yeon224)             |              [이지희](https://github.com/Zoe0929)               |              [조용인](https://github.com/usa4060)               |
+| ![김지연](https://avatars.githubusercontent.com/u/69784492?v=4) | ![이지희](https://avatars.githubusercontent.com/u/68178395?v=4) | ![조용인](https://avatars.githubusercontent.com/u/80234027?v=4) |
+| :-------------------------------------------------------------: | :-------------------------------------------------------------: | :-------------------------------------------------------------: |
+|             [김지연](https://github.com/ji-yeon224)             |              [이지희](https://github.com/Zoe0929)               |              [조용인](https://github.com/usa4060)               |
 
   </div>
   </details>
