@@ -50,9 +50,9 @@
   <summary>🤖 Android Developer 🤖</summary>
   <div class="android-developer">
 
-| ![노균욱](https://avatars.githubusercontent.com/u/76191161?v=4) | ![박민주](https://avatars.githubusercontent.com/u/76741702?v=4) | ![윤성식](https://avatars.githubusercontent.com/u/83231344?v=4) | ![조관희](https://avatars.githubusercontent.com/u/90740783?v=4) |
+| ![신민석](https://avatars.githubusercontent.com/u/122257945?v=4) | ![이지은](https://avatars.githubusercontent.com/u/75196460?v=4) | ![정현석](https://avatars.githubusercontent.com/u/72616557?v=4) | ![조윤진](https://avatars.githubusercontent.com/u/70833219?v=4) |
 | :-------------------------------------------------------------: | :-------------------------------------------------------------: | :-------------------------------------------------------------: | :-------------------------------------------------------------: |
-|              [노균욱](https://github.com/BENDENG1)              |             [박민주](https://github.com/minju1459)              |              [윤성식](https://github.com/SsongSik)              |             [조관희](https://github.com/Jokwanhee)              |
+|              [신민석](https://github.com/t1nm1ksun)              |             [이지은](https://github.com/jieeeunnn)              |              [정현석](https://github.com/hyuns66)              |             [조윤진](https://github.com/cyjadela)              |
 
   </div>
   </details>
