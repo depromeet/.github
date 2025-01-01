@@ -76,17 +76,17 @@
   <summary>⌨️ Server Developer ⌨️</summary>
   <div class="Server-developer">
 
-| ![권기준](https://avatars.githubusercontent.com/u/39583312?v=4) | ![김나현](https://avatars.githubusercontent.com/u/69833665?v=4)  | ![김세정](https://avatars.githubusercontent.com/u/64718002?v=4) | ![노관옥](https://avatars.githubusercontent.com/u/61671343?v=4)  |
-| :-------------------------------------------------------------: | :--------------------------------------------------------------: | :-------------------------------------------------------------: | :--------------------------------------------------------------: |
-|              [권기준](https://github.com/kkjsw17)               |              [김나현](https://github.com/nahyeon99)              |             [김세정](https://github.com/clean2001)              |               [노관옥](https://github.com/kwanok)                |
-| ![박민성](https://avatars.githubusercontent.com/u/52368015?v=4) | ![박세준](https://avatars.githubusercontent.com/u/74056843?v=4)  | ![박윤찬](https://avatars.githubusercontent.com/u/75676309?v=4) | ![송민규](https://avatars.githubusercontent.com/u/100754581?v=4) |
-|             [박민성](https://github.com/pminsung12)             |              [박세준](https://github.com/sejoon00)               |              [박윤찬](https://github.com/dbscks97)              |               [송민규](https://github.com/mikekks)               |
-| ![신민철](https://avatars.githubusercontent.com/u/48898994?v=4) | ![신은지](https://avatars.githubusercontent.com/u/38103085?v=4)  | ![양원채](https://avatars.githubusercontent.com/u/79977182?v=4) | ![엽용현](https://avatars.githubusercontent.com/u/73725736?v=4)  |
-|              [신민철](https://github.com/its-sky)               |              [신은지](https://github.com/EunjiShin)              |             [양원채](https://github.com/ywonchae1)              |          [엽용현](https://github.com/raymondanythings)           |
-| ![이준영](https://avatars.githubusercontent.com/u/84059402?v=4) | ![이한음](https://avatars.githubusercontent.com/u/103233513?v=4) | ![정상벽](https://avatars.githubusercontent.com/u/64072741?v=4) | ![정준원](https://avatars.githubusercontent.com/u/67488973?v=4)  |
-|           [이준영](https://github.com/lee-june-young)           |              [이한음](https://github.com/LeeHanEum)              |           [정상벽](https://github.com/JeongSangByuk)            |            [정준원](https://github.com/wjdwnsdnjs13)             |
-| ![차윤범](https://avatars.githubusercontent.com/u/68099546?v=4) | ![홍성주](https://avatars.githubusercontent.com/u/96187152?v=4)  |
-|             [차윤범](https://github.com/char-yb)             |              [홍성주](https://github.com/penrose15)              |
+| ![강지원](https://avatars.githubusercontent.com/u/128073698?v=4) | ![권기준](https://avatars.githubusercontent.com/u/39583312?v=4) | ![김대원](https://avatars.githubusercontent.com/u/99483390?v=4)  | ![김수빈](https://avatars.githubusercontent.com/u/46712693?v=4)  |
+|:-------------------------------------------------------------:|:------------------------------------------------------------:|:-------------------------------------------------------------:|:-------------------------------------------------------------:|
+|             [강지원](https://github.com/JiwonKKang)              |              [권기준](https://github.com/kkjsw17)               |               [김대원](https://github.com/big-cir)               |               [김수빈](https://github.com/deeev-sb)                |
+| ![김수진](https://avatars.githubusercontent.com/u/108571492?v=4) | ![김주현](https://avatars.githubusercontent.com/u/95271588?v=4) | ![남경민](https://avatars.githubusercontent.com/u/88446465?v=4)  | ![나경호](https://avatars.githubusercontent.com/u/96857599?v=4)  |
+|              [김수진](https://github.com/cowboysj)               |            [김주현](https://github.com/skydreamer21)            |              [남경민](https://github.com/keongmini)              |               [나경호](https://github.com/Hoya324)               |
+| ![손채영](https://avatars.githubusercontent.com/u/88581911?v=4)  | ![이민석](https://avatars.githubusercontent.com/u/91869302?v=4) | ![이예린](https://avatars.githubusercontent.com/u/101927543?v=4) | ![임찬기](https://avatars.githubusercontent.com/u/69755603?v=4)  |
+|              [손채영](https://github.com/helenason)              |             [이민석](https://github.com/minseokey)              |              [이예린](https://github.com/linirini)               |             [임찬기](https://github.com/Lim-Changi)              |
+| ![조익현](https://avatars.githubusercontent.com/u/123347183?v=4) | ![최태규](https://avatars.githubusercontent.com/u/39821474?v=4) | ![최원준](https://avatars.githubusercontent.com/u/78288539?v=4)  | ![최혜미](https://avatars.githubusercontent.com/u/105612931?v=4) |
+|           [조익현](https://github.com/CEO-Nick)            |              [최태규](https://github.com/suker80)               |            [최원준](https://github.com/jhon3242)            |            [최혜미](https://github.com/ghrltjdtprbs)             |
+|  ![윤영](https://avatars.githubusercontent.com/u/17813930?v=4)  |
+|             [윤영](https://github.com/yunyoung1819)             |
 
   </div>
   </details>
