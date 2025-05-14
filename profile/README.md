@@ -9,7 +9,7 @@
 [![Facebook](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/deprommeet/)](https://www.facebook.com/depromeet)
 [![instagram](https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/deprommeet/)](https://www.instagram.com/depromeet)
 [![Mail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:depromeet@gmail.com)](mailto:depromeet@gmail.com)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/depromeet)](https://hits.seeyoufarm.com)
+[![Hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fdeku.posstree.com?color=red&label=hits&size=small)](https://myhits.vercel.app)
 
 </div>
 
@@ -218,7 +218,7 @@
   <div class="web-frontend-developer">
 
 | ![김도은](https://avatars.githubusercontent.com/u/112946860?v=4) | ![김현우](https://avatars.githubusercontent.com/u/19422885?v=4) | ![류홍석](https://avatars.githubusercontent.com/u/34956359?v=4)  | ![손준호](https://avatars.githubusercontent.com/u/67476544?v=4) |
-| :--------------------------------------------------------------: | :-------------------------------------------------------------: | :--------------------------------------------------------------: | :-------------------------------------------------------------: | -------------------------------------------------------------- |
+| :--------------------------------------------------------------: | :-------------------------------------------------------------: | :--------------------------------------------------------------: | :-------------------------------------------------------------: |
 |             [김도은](https://github.com/Doeunnkimm)              |            [김현우](https://github.com/klmhyeonwoo)             |               [류홍석](https://github.com/deepbig)               |              [손준호](https://github.com/JUNOSHON)              |
 | ![신민경](https://avatars.githubusercontent.com/u/80238096?v=4)  | ![안동민](https://avatars.githubusercontent.com/u/68339352?v=4) | ![오예린](https://avatars.githubusercontent.com/u/110076475?v=4) | ![유은지](https://avatars.githubusercontent.com/u/27201591?v=4) |
 |             [신민경](https://github.com/minkyung00)              |              [안동민](https://github.com/wade3420)              |              [오예린](https://github.com/YelynnOh)               |              [유은지](https://github.com/y00eunji)              |
