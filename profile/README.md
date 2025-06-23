@@ -1,4 +1,4 @@
-![github_banner](https://github.com/depromeet/.github/blob/master/images/depromeet-16th.png)
+![github_banner](https://github.com/depromeet/.github/blob/master/images/depromeet-17th.png)
 
 # 디프만 - 디자이너와 프로그래머가 만났을 때
 
