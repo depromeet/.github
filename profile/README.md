@@ -14,6 +14,29 @@
 </div>
 
 
+<!-- 17기 -->
+
+<details>
+  <summary><b>[ 👨‍👩‍👦‍👦 17th Developer Member (25.08.02 ~ 25.11.25) ]</b> </summary>
+  <div markdown="1">
+
+  <details>
+  <summary>🧑🏻‍💻 Organizer (Developer) 👩🏻‍💻 </summary>
+  <div class="organizer">
+
+| ![권기준](https://avatars.githubusercontent.com/u/39583312?v=4) | ![이준영](https://avatars.githubusercontent.com/u/52552781?v=4) | ![이지현](https://avatars.githubusercontent.com/u/173592143?v=4) | ![장영주](https://avatars.githubusercontent.com/u/111039206?v=4) |
+| :-------------------------------------------------------------: | :-------------------------------------------------------------: | :-------------------------------------------------------------: | :-------------------------------------------------------------: |
+|     [권기준](https://github.com/kkjsw17)     |     [이준영](https://github.com/junlight94)     |     [이지현](https://github.com/ljh130334)     |     [장영주](https://github.com/youngju6143)     |
+| ![정현우](https://avatars.githubusercontent.com/u/92968138?v=4) | ![최태규](https://avatars.githubusercontent.com/u/39821474?v=4) | ![홍정기](https://avatars.githubusercontent.com/u/61747121?v=4) |
+|     [정현우](https://github.com/supersett)     |     [최태규](https://github.com/suker80)     |     [홍정기](https://github.com/qq8721443)     |
+
+  </div>
+  </details>
+
+  </div>
+</details>
+
+
 <!-- 16기 -->
 
 <details>
