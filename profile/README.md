@@ -65,15 +65,15 @@
     <summary>🖥 Web Frontend Developer 🖥</summary>
     <div class="web-developer">
 
-| ![김호균](https://avatars.githubusercontent.com/u/52593569?v=4) | ![박건우](https://avatars.githubusercontent.com/u/11780963?v=4) | ![박희진](https://avatars.githubusercontent.com/u/108905670?v=4) | ![성태현](https://avatars.githubusercontent.com/u/109207415?v=4) |
+| ![권혁준](https://avatars.githubusercontent.com/u/93127663?v=4) | ![김호균](https://avatars.githubusercontent.com/u/52593569?v=4) | ![박건우](https://avatars.githubusercontent.com/u/11780963?v=4) | ![박희진](https://avatars.githubusercontent.com/u/108905670?v=4) |
 | :---: | :---: | :---: | :---: |
-| [김호균](https://github.com/Salvation-sub) | [박건우](https://github.com/gunooh) | [박희진](https://github.com/gmlwlsdl) | [성태현](https://github.com/dvp-tae) |
-| ![오유민](https://avatars.githubusercontent.com/u/156336385?v=4) | ![유세은](https://avatars.githubusercontent.com/u/101736358?v=4) | ![윤해진](https://avatars.githubusercontent.com/u/86779590?v=4) | ![이성현](https://avatars.githubusercontent.com/u/70502670?v=4) |
-| [오유민](https://github.com/yuminnnnni) | [유세은](https://github.com/SeieunYoo) | [윤해진](https://github.com/haejinyun) | [이성현](https://github.com/Lee-Seonghyun316) |
-| ![이승현](https://avatars.githubusercontent.com/u/93538221?v=4) | ![이종원](https://avatars.githubusercontent.com/u/138106799?v=4) | ![이지현](https://avatars.githubusercontent.com/u/75863959?v=4) | ![정지오](https://avatars.githubusercontent.com/u/104253583?v=4) |
-| [이승현](https://github.com/seungsimdang) | [이종원](https://github.com/javadocq) | [이지현](https://github.com/rhctmxk) | [정지오](https://github.com/jiohjung98) |
-| ![정진혁](https://avatars.githubusercontent.com/u/124767201?v=4) | ![현수연](https://avatars.githubusercontent.com/u/80167893?v=4) | ![황동준](https://avatars.githubusercontent.com/u/114459629?v=4) | ![황유빈](https://avatars.githubusercontent.com/u/97329194?v=4) |
-| [정진혁](https://github.com/jinhyuek) | [현수연](https://github.com/soosoo22) | [황동준](https://github.com/nebulaBdj) | [황유빈](https://github.com/ppinppini) |
+| [권혁준](https://github.com/red-dev-Mark) | [김호균](https://github.com/Salvation-sub) | [박건우](https://github.com/gunooh) | [박희진](https://github.com/gmlwlsdl) |
+| ![성태현](https://avatars.githubusercontent.com/u/109207415?v=4) | ![오유민](https://avatars.githubusercontent.com/u/156336385?v=4) | ![유세은](https://avatars.githubusercontent.com/u/101736358?v=4) | ![윤해진](https://avatars.githubusercontent.com/u/86779590?v=4) |
+| [성태현](https://github.com/dvp-tae) | [오유민](https://github.com/yuminnnnni) | [유세은](https://github.com/SeieunYoo) | [윤해진](https://github.com/haejinyun) |
+| ![이성현](https://avatars.githubusercontent.com/u/70502670?v=4) | ![이승현](https://avatars.githubusercontent.com/u/93538221?v=4) | ![이종원](https://avatars.githubusercontent.com/u/138106799?v=4) | ![이지현](https://avatars.githubusercontent.com/u/75863959?v=4) |
+| [이성현](https://github.com/Lee-Seonghyun316) | [이승현](https://github.com/seungsimdang) | [이종원](https://github.com/javadocq) | [이지현](https://github.com/rhctmxk) |
+| ![정지오](https://avatars.githubusercontent.com/u/104253583?v=4) | ![정진혁](https://avatars.githubusercontent.com/u/124767201?v=4) | ![현수연](https://avatars.githubusercontent.com/u/80167893?v=4) | ![황유빈](https://avatars.githubusercontent.com/u/97329194?v=4) |
+| [정지오](https://github.com/jiohjung98) | [정진혁](https://github.com/jinhyuek) | [현수연](https://github.com/soosoo22) | [황유빈](https://github.com/ppinppini) |
 
 
 
