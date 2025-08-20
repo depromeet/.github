@@ -37,11 +37,11 @@
     <summary>🍎 iOS Developer 🍎</summary>
     <div class="ios-developer">
 
-| ![신정연](https://avatars.githubusercontent.com/u/88757043?v=4) | ![유재희](https://avatars.githubusercontent.com/u/134610315?v=4) | ![이동주](https://avatars.githubusercontent.com/u/16798331?v=4) | ![이재호](https://avatars.githubusercontent.com/u/123877353?v=4) |
+| ![유재희](https://avatars.githubusercontent.com/u/134610315?v=4) | ![이동주](https://avatars.githubusercontent.com/u/16798331?v=4) | ![이재호](https://avatars.githubusercontent.com/u/123877353?v=4) | ![이중엽](https://avatars.githubusercontent.com/u/123792519?v=4) |
 | :---: | :---: | :---: | :---: |
-| [신정연](https://github.com/MADElinessss) | [유재희](https://github.com/yujaehui) | [이동주](https://github.com/codinggosu) | [이재호](https://github.com/zaehorang) |
-| ![이중엽](https://avatars.githubusercontent.com/u/123792519?v=4) | ![최인호](https://avatars.githubusercontent.com/u/55151796?v=4) |
-| [이중엽](https://github.com/leejungyeob) | [최인호](https://github.com/E-know) |
+| [유재희](https://github.com/yujaehui) | [이동주](https://github.com/codinggosu) | [이재호](https://github.com/zaehorang) | [이중엽](https://github.com/leejungyeob) |
+| ![최인호](https://avatars.githubusercontent.com/u/55151796?v=4) |
+| [최인호](https://github.com/E-know) |
 
 </div>
 </details>
