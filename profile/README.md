@@ -14,6 +14,29 @@
 </div>
 
 
+<!-- 18기 -->
+
+<details>
+  <summary><b>[ 👨‍👩‍👦‍👦 18th Developer Member (26.03.14 ~ 26.07.04) ]</b> </summary>
+  <div markdown="1">
+
+  <details>
+  <summary>🧑🏻‍💻 Organizer (Developer) 👩🏻‍💻 </summary>
+  <div class="organizer">
+
+| <img src="https://github.com/depromeet/.github/raw/master/images/members/18th/profile-daewon.jpg" width="225.75"> | <img src="https://github.com/depromeet/.github/raw/master/images/members/18th/profile-sorae.jpg" width="225.75"> | <img src="https://github.com/depromeet/.github/raw/master/images/members/18th/profile-gunooh.jpg" width="225.75"> | <img src="https://github.com/depromeet/.github/raw/master/images/members/18th/profile-yumin.jpg" width="225.75"> |
+| :---: | :---: | :---: | :---: |
+| [김대원](https://github.com/big-cir) | [노소래](https://github.com/nosorae) | [박건우](https://github.com/gunooh) | [오유민](https://github.com/yuminnnnni) |
+| <img src="https://github.com/depromeet/.github/raw/master/images/members/18th/profile-sunghyun.jpg" width="225.75"> | <img src="https://github.com/depromeet/.github/raw/master/images/members/18th/profile-jioh.jpg" width="225.75"> | <img src="https://github.com/depromeet/.github/raw/master/images/members/18th/profile-sunwon.jpg" width="225.75"> | |
+| [이성현](https://github.com/onlyshyun) | [정지오](https://github.com/jiohjung98) | [정순원](https://github.com/sunwon12) | |
+
+  </div>
+  </details>
+
+  </div>
+</details>
+
+
 <!-- 17기 -->
 
 <details>
