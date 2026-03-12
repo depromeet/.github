@@ -33,6 +33,56 @@
   </div>
   </details>
 
+  <details>
+    <summary>🍎 iOS Developer 🍎</summary>
+
+| ![이정원](https://avatars.githubusercontent.com/devjungwonlee?v=4) | ![송민교](https://avatars.githubusercontent.com/wk1717?v=4) | ![진준호](https://avatars.githubusercontent.com/jincode93?v=4) | ![최준영](https://avatars.githubusercontent.com/J0onYEong?v=4) |
+| :---: | :---: | :---: | :---: |
+| [이정원](https://github.com/devjungwonlee) | [송민교](https://github.com/wk1717) | [진준호](https://github.com/jincode93) | [최준영](https://github.com/J0onYEong) |
+
+  </details>
+
+  <details>
+    <summary>🤖 Android Developer 🤖</summary>
+
+| ![이준희](https://avatars.githubusercontent.com/Junhee8649?v=4) | ![최지우](https://avatars.githubusercontent.com/elaus00?v=4) | ![이상일](https://avatars.githubusercontent.com/thirfir?v=4) | ![임지원](https://avatars.githubusercontent.com/Ddudduu?v=4) |
+| :---: | :---: | :---: | :---: |
+| [이준희](https://github.com/Junhee8649) | [최지우](https://github.com/elaus00) | [이상일](https://github.com/thirfir) | [임지원](https://github.com/Ddudduu) |
+
+  </details>
+
+<details>
+<summary>🖥 Web Frontend Developer 🖥</summary>
+
+| ![오승민](https://avatars.githubusercontent.com/mlnls?v=4) | ![이희주](https://avatars.githubusercontent.com/hjlee2778?v=4) | ![김민수](https://avatars.githubusercontent.com/durumi99?v=4) | ![박소영](https://avatars.githubusercontent.com/soyeong0115?v=4) |
+| :---: | :---: | :---: | :---: |
+| [오승민](https://github.com/mlnls) | [이희주](https://github.com/hjlee2778) | [김민수](https://github.com/durumi99) | [박소영](https://github.com/soyeong0115) |
+| ![정선아](https://avatars.githubusercontent.com/iOdiO89?v=4) | ![강지혜](https://avatars.githubusercontent.com/Jihaeee?v=4) | ![현혜주](https://avatars.githubusercontent.com/hxezu?v=4) | ![신현진](https://avatars.githubusercontent.com/xxxjinn?v=4) |
+| [정선아](https://github.com/iOdiO89) | [강지혜](https://github.com/Jihaeee) | [현혜주](https://github.com/hxezu) | [신현진](https://github.com/xxxjinn) |
+| ![이채원](https://avatars.githubusercontent.com/cindy-chaewon?v=4) | ![강하은](https://avatars.githubusercontent.com/kanghaeun?v=4) | ![윤나경](https://avatars.githubusercontent.com/nakyeongg?v=4) | ![조영찬](https://avatars.githubusercontent.com/ychany?v=4) |
+| [이채원](https://github.com/cindy-chaewon) | [강하은](https://github.com/kanghaeun) | [윤나경](https://github.com/nakyeongg) | [조영찬](https://github.com/ychany) |
+| ![공소나](https://avatars.githubusercontent.com/ballsona?v=4) | ![김일곤](https://avatars.githubusercontent.com/ilgon0110?v=4) | ![최어진](https://avatars.githubusercontent.com/poodlepoodle?v=4) | ![권새봄](https://avatars.githubusercontent.com/kwonsaebom?v=4) |
+| [공소나](https://github.com/ballsona) | [김일곤](https://github.com/ilgon0110) | [최어진](https://github.com/poodlepoodle) | [권새봄](https://github.com/kwonsaebom) |
+
+</details>
+
+<details>
+<summary>⌨️ Server Developer ⌨️</summary>
+
+| ![김경규](https://avatars.githubusercontent.com/KoungQ?v=4) | ![오예현](https://avatars.githubusercontent.com/OhYeHyun?v=4) | ![허은정](https://avatars.githubusercontent.com/eundeang?v=4) | ![박희운](https://avatars.githubusercontent.com/heeun98?v=4) |
+| :---: | :---: | :---: | :---: |
+| [김경규](https://github.com/KoungQ) | [오예현](https://github.com/OhYeHyun) | [허은정](https://github.com/eundeang) | [박희운](https://github.com/heeun98) |
+| ![허지원](https://avatars.githubusercontent.com/Hheojiwon?v=4) | ![김지민](https://avatars.githubusercontent.com/jminkkk?v=4) | ![신민규](https://avatars.githubusercontent.com/uykm?v=4) | ![이다민](https://avatars.githubusercontent.com/devDavidLee?v=4) |
+| [허지원](https://github.com/Hheojiwon) | [김지민](https://github.com/jminkkk) | [신민규](https://github.com/uykm) | [이다민](https://github.com/devDavidLee) |
+| ![양재서](https://avatars.githubusercontent.com/psychology50?v=4) | ![최태규](https://avatars.githubusercontent.com/suker80?v=4) | ![유효주](https://avatars.githubusercontent.com/oohyj?v=4) | ![조재중](https://avatars.githubusercontent.com/m-a-king?v=4) |
+| [양재서](https://github.com/psychology50) | [최태규](https://github.com/suker80) | [유효주](https://github.com/oohyj) | [조재중](https://github.com/m-a-king) |
+| ![이윤영](https://avatars.githubusercontent.com/lydbsdud?v=4) | ![임준현](https://avatars.githubusercontent.com/eclipse021?v=4) | ![박세빈](https://avatars.githubusercontent.com/sevin98?v=4) | ![김지욱](https://avatars.githubusercontent.com/ziweek?v=4) |
+| [이윤영](https://github.com/lydbsdud) | [임준현](https://github.com/eclipse021) | [박세빈](https://github.com/sevin98) | [김지욱](https://github.com/ziweek) |
+| ![박은지](https://avatars.githubusercontent.com/1o18z?v=4) | ![김선준](https://avatars.githubusercontent.com/kimseonj?v=4) |  |  |
+| [박은지](https://github.com/1o18z) | [김선준](https://github.com/kimseonj) |  |  |
+
+</details>
+
   </div>
 </details>
 
