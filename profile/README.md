@@ -57,12 +57,12 @@
 | ![강지혜](https://avatars.githubusercontent.com/Jihaeee?v=4) | ![강하은](https://avatars.githubusercontent.com/kanghaeun?v=4) | ![공소나](https://avatars.githubusercontent.com/ballsona?v=4) | ![권새봄](https://avatars.githubusercontent.com/kwonsaebom?v=4) |
 | :---: | :---: | :---: | :---: |
 | [강지혜](https://github.com/Jihaeee) | [강하은](https://github.com/kanghaeun) | [공소나](https://github.com/ballsona) | [권새봄](https://github.com/kwonsaebom) |
-| ![김민수](https://avatars.githubusercontent.com/durumi99?v=4) | ![김일곤](https://avatars.githubusercontent.com/ilgon0110?v=4) | ![박소영](https://avatars.githubusercontent.com/soyeong0115?v=4) | ![신현진](https://avatars.githubusercontent.com/xxxjinn?v=4) |
-| [김민수](https://github.com/durumi99) | [김일곤](https://github.com/ilgon0110) | [박소영](https://github.com/soyeong0115) | [신현진](https://github.com/xxxjinn) |
-| ![오승민](https://avatars.githubusercontent.com/mlnls?v=4) | ![윤나경](https://avatars.githubusercontent.com/nakyeongg?v=4) | ![이채원](https://avatars.githubusercontent.com/cindy-chaewon?v=4) | ![이희주](https://avatars.githubusercontent.com/hjlee2778?v=4) |
-| [오승민](https://github.com/mlnls) | [윤나경](https://github.com/nakyeongg) | [이채원](https://github.com/cindy-chaewon) | [이희주](https://github.com/hjlee2778) |
-| ![정선아](https://avatars.githubusercontent.com/iOdiO89?v=4) | ![조영찬](https://avatars.githubusercontent.com/ychany?v=4) | ![최어진](https://avatars.githubusercontent.com/poodlepoodle?v=4) | ![현혜주](https://avatars.githubusercontent.com/hxezu?v=4) |
-| [정선아](https://github.com/iOdiO89) | [조영찬](https://github.com/ychany) | [최어진](https://github.com/poodlepoodle) | [현혜주](https://github.com/hxezu) |
+| ![김민수](https://avatars.githubusercontent.com/durumi99?v=4) | ![박소영](https://avatars.githubusercontent.com/soyeong0115?v=4) | ![신현진](https://avatars.githubusercontent.com/xxxjinn?v=4) | ![오승민](https://avatars.githubusercontent.com/mlnls?v=4) 
+| [김민수](https://github.com/durumi99) | [박소영](https://github.com/soyeong0115) | [신현진](https://github.com/xxxjinn) | [오승민](https://github.com/mlnls) 
+| ![윤나경](https://avatars.githubusercontent.com/nakyeongg?v=4) | ![이채원](https://avatars.githubusercontent.com/cindy-chaewon?v=4) | ![이희주](https://avatars.githubusercontent.com/hjlee2778?v=4) | ![정선아](https://avatars.githubusercontent.com/iOdiO89?v=4) 
+| [윤나경](https://github.com/nakyeongg) | [이채원](https://github.com/cindy-chaewon) | [이희주](https://github.com/hjlee2778) | [정선아](https://github.com/iOdiO89) 
+| ![조영찬](https://avatars.githubusercontent.com/ychany?v=4) | ![최어진](https://avatars.githubusercontent.com/poodlepoodle?v=4) | ![현혜주](https://avatars.githubusercontent.com/hxezu?v=4) |
+| [조영찬](https://github.com/ychany) | [최어진](https://github.com/poodlepoodle) | [현혜주](https://github.com/hxezu) |
 
 </details>
 
