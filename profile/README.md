@@ -1,4 +1,4 @@
-![github_banner](https://github.com/depromeet/.github/blob/master/images/depromeet-18th.png)
+![github_banner](https://github.com/depromeet/.github/blob/master/images/depromeet-19th.png)
 
 # 디프만 - 디자이너와 프로그래머가 만났을 때
 
@@ -13,6 +13,49 @@
 
 </div>
 
+<!-- 19기 -->
+
+<details>
+  <summary><b>[ 👨‍👩‍👦‍👦 19th Developer Member (26.10.31 ~ 27.02.20) ]</b> </summary>
+  <div markdown="1">
+
+  <details>
+  <summary>🧑🏻‍💻 Organizer (Developer) 👩🏻‍💻 </summary>
+  <div class="organizer">
+
+  | ![공소나](https://avatars.githubusercontent.com/ballsona?v=4) | ![김선준](https://avatars.githubusercontent.com/kimseonj?v=4) | ![김지민](https://avatars.githubusercontent.com/jminkkk?v=4) | ![김지욱](https://avatars.githubusercontent.com/ziweek?v=4) |
+  | :---: | :---: | :---: | :---: |
+  | [공소나](https://github.com/ballsona) | [김선준](https://github.com/kimseonj) | [김지민](https://github.com/jminkkk) | [김지욱](https://github.com/ziweek) |
+  | ![양재서](https://avatars.githubusercontent.com/psychology50?v=4) | ![오예현](https://avatars.githubusercontent.com/OhYeHyun?v=4) | ![이윤영](https://avatars.githubusercontent.com/lydbsdud?v=4) | ![이준희](https://avatars.githubusercontent.com/Junhee8649?v=4) |
+  | [양재서](https://github.com/psychology50) | [오예현](https://github.com/OhYeHyun) | [이윤영](https://github.com/lydbsdud) | [이준희](https://github.com/Junhee8649) |
+  | ![이희주](https://avatars.githubusercontent.com/hjlee2778?v=4) | ![최어진](https://avatars.githubusercontent.com/poodlepoodle?v=4) |  |  |
+  | [이희주](https://github.com/hjlee2778) | [최어진](https://github.com/poodlepoodle) |  |  |
+
+  </div>
+  </details>
+
+<details>
+  <summary>🍎 iOS Developer 🍎</summary>
+  
+  </details>
+  
+  <details>
+  <summary>🤖 Android Developer 🤖</summary>
+  
+  </details>
+
+  <details>
+  <summary>🖥 Web Frontend Developer 🖥</summary>
+  
+  </details>
+    
+  <details>
+  <summary>⌨️ Server Developer ⌨️</summary>
+  
+  </details>
+
+  </div>
+</details>
 
 <!-- 18기 -->
 
