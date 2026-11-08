@@ -34,24 +34,49 @@
   </div>
   </details>
 
-<details>
+  <details>
   <summary>🍎 iOS Developer 🍎</summary>
-  
+    
+  | <img src="https://avatars.githubusercontent.com/kanghun1121?v=4" width="225.75"> | <img src="https://avatars.githubusercontent.com/taehun0933?v=4" width="225.75"> | <img src="https://avatars.githubusercontent.com/hemssy?v=4" width="225.75"> |
+  | :---: | :---: | :---: |
+  | [강대훈](https://github.com/kanghun1121) | [권태훈](https://github.com/taehun0933) | [신서연](https://github.com/hemssy) |
+ 
   </details>
-  
   <details>
   <summary>🤖 Android Developer 🤖</summary>
-  
+    
+  | <img src="https://avatars.githubusercontent.com/s9hn?v=4" width="225.75"> | <img src="https://avatars.githubusercontent.com/minmul07?v=4" width="225.75"> | <img src="https://avatars.githubusercontent.com/hanchang97?v=4" width="225.75"> |
+  | :---: | :---: | :---: |
+  | [김세훈](https://github.com/s9hn) | [어승경](https://github.com/minmul07) | [한창희](https://github.com/hanchang97) |
+ 
   </details>
-
   <details>
   <summary>🖥 Web Frontend Developer 🖥</summary>
-  
-  </details>
     
+  | ![강윤호](https://avatars.githubusercontent.com/wide-pants?v=4) | ![김도은](https://avatars.githubusercontent.com/dododokk?v=4) | ![김수빈](https://avatars.githubusercontent.com/sudosubin?v=4) | ![김재현](https://avatars.githubusercontent.com/harryk-im?v=4) |
+  | :---: | :---: | :---: | :---: |
+  | [강윤호](https://github.com/wide-pants) | [김도은](https://github.com/dododokk) | [김수빈](https://github.com/sudosubin) | [김재현](https://github.com/harryk-im) |
+  | ![김준식](https://avatars.githubusercontent.com/sikkzz?v=4) | ![김호중](https://avatars.githubusercontent.com/hojkim77?v=4) | ![남승오](https://avatars.githubusercontent.com/bananaoh?v=4) | ![박지우](https://avatars.githubusercontent.com/jiwoopark727?v=4) |
+  | [김준식](https://github.com/sikkzz) | [김호중](https://github.com/hojkim77) | [남승오](https://github.com/bananaoh) | [박지우](https://github.com/jiwoopark727) |
+  | ![유준호](https://avatars.githubusercontent.com/yjh-1008?v=4) | ![이재윤](https://avatars.githubusercontent.com/devjaeyoon?v=4) | ![이현재](https://avatars.githubusercontent.com/2-NOW?v=4) | ![임경섭](https://avatars.githubusercontent.com/seobi-97?v=4) |
+  | [유준호](https://github.com/yjh-1008) | [이재윤](https://github.com/devjaeyoon) | [이현재](https://github.com/2-NOW) | [임경섭](https://github.com/seobi-97) |
+  | ![정혜연](https://avatars.githubusercontent.com/yeon0036?v=4) | ![천성윤](https://avatars.githubusercontent.com/seongyun4359?v=4) | ![최윤영](https://avatars.githubusercontent.com/yunyoung0531?v=4) |   |
+  | [정혜연](https://github.com/yeon0036) | [천성윤](https://github.com/seongyun4359) | [최윤영](https://github.com/yunyoung0531) |   |
+ 
+  </details>
   <details>
   <summary>⌨️ Server Developer ⌨️</summary>
-  
+    
+  | ![김나현](https://avatars.githubusercontent.com/nahyeon99?v=4) | ![김아린](https://avatars.githubusercontent.com/rin-k645?v=4) | ![노을](https://avatars.githubusercontent.com/0sunset0?v=4) | ![설승환](https://avatars.githubusercontent.com/SH-Seol?v=4) |
+  | :---: | :---: | :---: | :---: |
+  | [김나현](https://github.com/nahyeon99) | [김아린](https://github.com/rin-k645) | [노을](https://github.com/0sunset0) | [설승환](https://github.com/SH-Seol) |
+  | ![오익준](https://avatars.githubusercontent.com/putdata?v=4) | ![유승한](https://avatars.githubusercontent.com/ryuseunghan?v=4) | ![이서현](https://avatars.githubusercontent.com/seohyun-lee?v=4) | ![이수아](https://avatars.githubusercontent.com/Immmii?v=4) |
+  | [오익준](https://github.com/putdata) | [유승한](https://github.com/ryuseunghan) | [이서현](https://github.com/seohyun-lee) | [이수아](https://github.com/Immmii) |
+  | ![이수지](https://avatars.githubusercontent.com/kcnsmoothie?v=4) | ![정지환](https://avatars.githubusercontent.com/JJhwan7099?v=4) | ![최종연](https://avatars.githubusercontent.com/Jyeon324?v=4) | ![하이현](https://avatars.githubusercontent.com/hyh1016?v=4) |
+  | [이수지](https://github.com/kcnsmoothie) | [정지환](https://github.com/JJhwan7099) | [최종연](https://github.com/Jyeon324) | [하이현](https://github.com/hyh1016) |
+  | ![황영훈](https://avatars.githubusercontent.com/happyhun?v=4) | ![황윤재](https://avatars.githubusercontent.com/D5-wq?v=4) |   |   |
+  | [황영훈](https://github.com/happyhun) | [황윤재](https://github.com/D5-wq) |   |   |
+ 
   </details>
 
   </div>
